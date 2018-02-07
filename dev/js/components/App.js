@@ -4,7 +4,7 @@ require('../../scss/style.scss');
 const App = () => (
     <div>
         <h2>
-            Username List:
+            Username List: test
         </h2>   
         <hr/>
         <h2>
